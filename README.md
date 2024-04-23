@@ -1,3 +1,5 @@
-University Project: Bureau, a word processor for fiction writing.
+University Project: Bureau
+
+A word processor for fiction writing.
 
 Frontend Client
