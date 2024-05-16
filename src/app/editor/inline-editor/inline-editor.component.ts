@@ -1,5 +1,6 @@
 import { Component, Input } from '@angular/core';
 import InlineEditor from '@ckeditor/ckeditor5-build-inline';
+import { WebService } from '../../web.service';
 
 @Component({
   selector: 'app-inline-editor',

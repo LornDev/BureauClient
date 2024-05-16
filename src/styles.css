@@ -1,0 +1,4 @@
+/* COMPONENTS BESIDE EACH OTHER ON PAGE */
+.beside {
+        display: flex;
+}

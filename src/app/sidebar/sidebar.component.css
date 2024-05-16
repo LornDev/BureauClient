@@ -1,0 +1,43 @@
+.sidebar {
+    min-height: 900px;
+    width: 400px;
+    left: 0;
+
+    background-color: #285e69;
+    border-style: solid;
+    border-top: none;
+
+    padding-top: 20px;
+}
+  
+.project-list {
+    list-style-type: none;
+    margin: auto;
+}
+  
+.doc-list {
+    list-style-type: none;
+    padding-left: 30px;
+}
+
+.project-item {
+    font-size: large;
+    color: #ccb3c0
+}
+
+.sidebar ul li {
+    padding: 10px;
+}
+  
+.sidebar ul li button {
+    border: none;
+    background-color: transparent;
+    outline: none;
+
+    text-decoration: none;
+    color: #ccb3c0
+}
+  
+.sidebar ul li button:hover {
+    color: lightgray;
+}
